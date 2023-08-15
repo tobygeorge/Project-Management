@@ -1,4 +1,4 @@
-## Project Management (Open-source and Working Open), Spring 2023
+## Project Management (Open-source and Working Open), Fall 2023
 
 Dr. Bradly Alicea
 [balicea@illinois.edu](mailto:balicea@illinois.edu)
