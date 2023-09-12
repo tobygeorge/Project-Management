@@ -16,6 +16,7 @@ I really want to travel down the road and experience new cultures. Some of the p
 - Bali, Indonesia
 
 <img width="554" alt="Screen Shot 2023-09-12 at 5 21 46 PM" src="https://github.com/snakka4/Project-Management/assets/73139789/e4d7e313-808e-439a-acdc-3158a154f90f">
+
 <figcaption> Cappadocia, Turkey </figcaption>
 
 ***
