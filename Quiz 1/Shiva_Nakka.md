@@ -15,7 +15,8 @@ I really want to travel down the road and experience new cultures. Some of the p
 - Tokyo, Japan
 - Bali, Indonesia
 
-<img src="[![Ottoman-Cave-Suites](Ottoman-Cave-Suites.jpeg)](https://throughkelseyslens.com/wp-content/uploads/2020/02/Ottoman-Cave-Suites-Roof-819x1024.jpg)" alt="Italian Trulli">
+<img src="![Ottoman-Cave-Suites](https://github.com/snakka4/Project-Management/assets/73139789/dbf653d7-97cc-49ac-8d2d-92cdfe58f052)"
+ alt="Italian Trulli">
 
 ***
 
