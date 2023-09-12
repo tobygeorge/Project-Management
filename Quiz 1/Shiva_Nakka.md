@@ -15,12 +15,12 @@ I really want to travel down the road and experience new cultures. Some of the p
 - Tokyo, Japan
 - Bali, Indonesia
 
-<img src="![Ottoman-Cave-Suites](https://github.com/snakka4/Project-Management/assets/73139789/dbf653d7-97cc-49ac-8d2d-92cdfe58f052)"
- alt="Italian Trulli">
+<img width="554" alt="Screen Shot 2023-09-12 at 5 21 46 PM" src="https://github.com/snakka4/Project-Management/assets/73139789/e4d7e313-808e-439a-acdc-3158a154f90f">
+
 
 ***
 
-Below is some of my personal information if you would like to contact me:
+Below is my professional information if you would like to contact me or would like to know more:
 
 <a href="https://www.linkedin.com/in/shiva-nakka-414204132/">LinkedIn 💼</a>
 
