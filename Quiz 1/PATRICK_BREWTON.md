@@ -5,7 +5,8 @@
   <figcaption> Fight Club is one of my favorite movies (says everyone I know) <figcaption>
 </figure>
     
-+ Here Are More Of My Favorite Movies, Live Action Shows & Anime/Cartoons
+    
+## Here Are More Of My Favorite Movies, Live Action Shows & Anime/Cartoons
 
 | Movies               | Shows                         | Animation        |
 | -------------------- | ----------------------------- | ---------------- |
