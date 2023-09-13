@@ -7,8 +7,8 @@
     
 + Here Are More Of My Favorite Movies, Live Action Shows & Anime/Cartoons
 
-| Movies               | Shows                      | Animation        |
-| -------------------- | -------------------------- | ---------------- |
-| Kill Bill            | Game of Thrones            | Hunter X Hunter  |
-| Midnight in Paris    | The End Of The F**cking World | Adventure Time  |
-| Creep                | Gilmore Girls               | YuYu Hakusho     |
+| Movies               | Shows                         | Animation        |
+| -------------------- | ----------------------------- | ---------------- |
+| Kill Bill            | Game of Thrones               | Hunter X Hunter  |
+| Midnight in Paris    | The End Of The F**cking World | Adventure Time   |
+| Creep                | Gilmore Girls                 | YuYu Hakusho     |
