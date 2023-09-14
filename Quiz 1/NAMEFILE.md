@@ -23,3 +23,5 @@ Zoe Matz
 Liz Tran
 
 Patrick Brewton  
+
+Rosalind Chang
